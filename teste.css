@@ -1,0 +1,516 @@
+*{
+	margin: 0px;
+	margin-top: 1px;
+	padding: 0px;
+}
+
+body{	
+		background-image: url(Tecno3.jpg);
+		background-attachment: fixed;
+		background-size: cover;
+		background-repeat: no-repeat;
+		background-position: center center;
+}
+
+body{
+	color: #4B0082;
+}
+
+@media screen and (min-width:300px) and (max-width:1100px)
+{
+	*{
+		margin-bottom: 20px;
+		height: 40px;
+		margin-left: 2px;
+	}
+	
+	.uma-div{width: 100%; margin: 0px; background: ff0}
+
+
+
+#inclui{
+	vertical-align: -40px;
+	margin-bottom: -10px;
+	margin: 0px;
+	background-color: #4682B4;
+	padding: 4px;
+}
+
+#exc2{
+	margin-top: -20px;
+}
+
+#exclui{
+	border: 2px #D3D3D3 solid;
+	background-color: transparent;
+	padding:0px;
+	vertical-align: -85px;
+	height: 30px;
+	
+}
+
+#exclui2{
+	padding: 5px;
+	vertical-align: -10px;
+	margin-left: 2px;
+	margin-right: 6px;
+	margin-top: 70px;
+	background-color: #4682B4;
+}
+
+/* form da tabela excluir produtos */
+#e{
+	height: 80px;
+}
+/* form da tabela excluir produtos */
+
+
+/* form da tabela mostrar todos os produtos*/
+
+#m{
+	height: 70px;
+	width: 110%;
+}
+
+#mostrar{
+	padding: 3px;
+	padding-left: 0px;
+	padding-right: 0px;
+	vertical-align: -134px;
+	margin-bottom: -10px;
+	margin-left: -16px;
+	background-color: #4682B4;
+}
+
+#al{
+	margin-top: 25px;
+	margin-left: -10px;
+}
+
+#al2{
+	margin-top: 27px;
+	
+	margin-left: 16px;
+	margin-right: -60px;
+	vertical-align: 10px;
+}
+
+#altera{
+	margin-left: 50px;
+	vertical-align: -50px;
+	padding: 8px;
+	padding-left: 9px;
+	padding-right: 9px;
+	background-color: #4682B4;
+}
+
+#altera2{
+	margin-right: 10px;
+	margin-left: 13px;
+	vertical-align: -48px;
+	background-color: #4682B4;
+}
+
+#alter{
+	border: 2px #D3D3D3 solid;
+	background-color: transparent;
+	margin-left: 15px;
+	font-size: 20px;
+	height: 28px;
+	margin-top: 6px;
+}
+
+#exibe{
+	border: 2px #D3D3D3 solid;
+	background-color: transparent;
+	padding: 4px;
+	height: 22px;
+	margin-left: 5px;
+	vertical-align: -5px;
+	margin-top: ;
+}
+
+/* tabela inclui */
+
+
+#cod{
+	border: 2px #D3D3D3 solid;
+	background-color: transparent;
+	margin-bottom: ;
+	padding: 4px;
+	height: 20px;
+}
+
+#produ{
+	vertical-align: -19px;
+	margin-top: 25px;
+	height: ;
+	
+}
+
+#nom{
+	border: 2px #D3D3D3 solid;
+	background-color: transparent;
+	padding:4px;
+	height: 20px;
+	margin-top: 5px;
+	margin-left: -3px;
+}
+
+#tex{
+	border: 2px #D3D3D3 solid;
+	background-color: transparent;
+	margin-top: 10px;
+	padding:3px;
+	height: 36px;
+	margin-left: -2px;
+}
+
+#des{
+	margin-top: 30px;
+	margin-bottom: ;
+}
+
+#preco{
+	border: 2px #D3D3D3 solid;
+	background-color: transparent;
+	margin-top: 62px;
+	padding:4px;
+	width: 70px;
+	height: 18px;
+}
+
+#peso{
+	border: 2px #D3D3D3 solid;
+	background-color: transparent;
+	margin-top: 50px;
+	padding:4px;
+	width: 70px;
+	height: 18px;
+	margin-bottom: 50px;
+}
+
+#categ2{
+	margin-top: 55px;
+	margin-bottom: ;
+}
+
+#categ{
+	margin-top: ;
+	border: 2px #D3D3D3 solid;
+	background-color: transparent;
+	margin-bottom: 6px;
+	padding:2px;
+	height: 20px;
+}
+
+#subc{
+	border: 2px #D3D3D3 solid;
+	background-color: transparent;
+	vertical-align: -10px;
+	padding:2px;
+	height: 20px;
+	margin-top: 5px;
+}
+
+#subc2{
+	margin-top: 20px;
+}
+
+#inf{
+	border: 2px #D3D3D3 solid;
+	background-color: transparent;
+	width: 130px;
+	padding: 4px;
+	height: 20px;
+}
+
+#inf2{
+	margin-top: 80px;
+}
+
+#take{
+	height: 30px;
+}
+
+#td2{
+	height: 600px;
+}
+
+.form-inc{
+	height: 455px;
+	margin-right: 50px;
+}
+
+.form-alt{
+	height: 186px;
+	margin-right: 50px;
+}
+
+.div-pesq{
+	
+}
+
+.form-pesq{
+	height: 200px;
+	margin-left: 0px;
+	width: 0px;
+}
+
+.sai{
+	vertical-align: -970px;
+	margin-left: 2px;
+	font-size: 30px;
+	display: inline-block;
+}
+
+}
+
+
+
+@media screen and (min-width:1101px){
+	
+
+.uma-div{
+	
+}
+
+.form-inc{
+	height: 456px;
+}
+
+#inc{
+	height: 40px;
+}
+
+.tab-incluir{
+	margin-right: 800px;
+	margin-left: 274px;
+}
+
+.div-exclui{
+	
+}
+
+.form-exc{
+	height: 37px;
+}
+
+.tab-exc{
+	margin-left: 676px;
+	margin-top: -532px;
+	width: 15%;
+}
+
+.td-exc{
+	height: 10px;
+	padding-top: 0px;
+	margin-bottom: -20px;
+}
+
+.div-most{
+	
+}
+
+.form-most{
+	height: 37px;
+}
+
+.tab-most{
+	margin-left: 203px;
+	height: 200px;
+	margin-top: -2px;
+	width: 15%;
+	
+}
+
+#tt{
+	height: 31px;
+}
+
+.tabela1{
+	height: 40px;
+}
+
+.tabela2{
+	height: 40px;
+}
+
+.div-alt{
+	
+}
+
+.form-alt{
+	height: 160px;
+}
+
+.tab-alt{
+	margin-left: 602px;
+	margin-top: -533px;
+	width: 15%;
+}
+
+.div-pesq{
+	
+}
+
+.form-pesq{
+	height: 160px;
+}
+
+.tab-pesquisa{
+	margin-left: 602px;
+	margin-top: -3px;
+}
+
+
+#inclui{
+	padding: 8px;
+	vertical-align: -23px;
+	margin-bottom: ;
+	margin: 0px;
+	background-color: #4682B4;
+}
+
+#exclui{
+	border: 2px #D3D3D3 solid;
+	background-color: transparent;
+	padding:5px;
+	margin-top: 5px;
+}
+
+#exclui2{
+	padding: 8px;
+	vertical-align: -25px;
+	margin-bottom: 0px;
+	margin: ;
+	background-color: #4682B4;
+}
+
+#mostrar{
+	padding: 8px;
+	vertical-align: -25px;
+	background-color: #4682B4;
+}
+
+#altera{
+	margin-left: 208px;
+	vertical-align: -20px;
+	padding: 8px;
+	padding-left: 9px;
+	background-color: #4682B4;
+}
+
+#altera2{
+	
+	margin-left: 190px;
+	vertical-align: -20px;
+	padding: 8px;
+	padding-right: 2px;
+	background-color: #4682B4;
+}
+
+#alter{
+	border: 2px #D3D3D3 solid;
+	background-color: transparent;
+	margin-left: ;
+	padding: 4px;
+	margin-top: 21px;
+}
+
+#exibe{
+	border: 2px #D3D3D3 solid;
+	background-color: transparent;
+	padding: 4px;
+	margin-top: 21px;
+}
+
+/* tabela inclui */
+
+
+#cod{
+	border: 2px #D3D3D3 solid;
+	background-color: transparent;
+	margin-bottom: ;
+	padding: 4px;
+	margin-bottom: 6px;
+}
+
+#produ{
+	vertical-align: -19px;
+	margin-bottom: 7px;
+	
+}
+
+#nom{
+	border: 2px #D3D3D3 solid;
+	background-color: transparent;
+	padding:4px;
+}
+
+#tex{
+	border: 2px #D3D3D3 solid;
+	background-color: transparent;
+	margin-bottom: 4px;
+	padding:3px;
+}
+
+#preco{
+	border: 2px #D3D3D3 solid;
+	background-color: transparent;
+	margin-bottom: 8px;
+	padding:4px;
+	width: 70px;
+}
+
+#peso{
+	border: 2px #D3D3D3 solid;
+	background-color: transparent;
+	margin-bottom: 8px;
+	padding:4px;
+	width: 70px;
+}
+
+#categ{
+	border: 2px #D3D3D3 solid;
+	background-color: transparent;
+	margin-bottom: 8px;
+	padding:3px;
+}
+
+#subc{
+	border: 2px #D3D3D3 solid;
+	background-color: transparent;
+	margin-bottom: 8px;
+	padding:3px;
+}
+
+#inf{
+	border: 2px #D3D3D3 solid;
+	background-color: transparent;
+	width: 130px;
+	padding: 4px;
+	margin-top: -2px;
+}
+
+#td2{
+	height: 390px;
+}
+
+#ta{
+	height: 30px;
+}
+
+.sai{
+	margin-left: 2px;
+	font-size: 30px;
+	vertical-alig: 830px;
+	display: inline-block;
+}
+}
+
+
+
+
+
+
