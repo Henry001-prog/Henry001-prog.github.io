@@ -1,0 +1,27 @@
+#b{
+  font-weight: 900;
+  font-size: 40px;
+  border-radius: 25px;
+  border: 255px;
+  vertical-align: -90px;
+  /*margin-bottom: -900px;*/
+  margin-left: 390px;
+  opacity: 0.5;
+  background-color: #000000;
+  color: #7FFFD4;
+  cursor: pointer;
+}
+    
+#b1{
+  font-weight: 900;
+  font-size: 40px;
+  border-radius: 25px;
+  border: 255px;
+  vertical-align: -90px;
+  /*margin-bottom: -900px;*/
+  margin-left: 490px;
+  opacity: 0.5;
+  background-color: #000000;
+  color: #7FFFD4;
+  cursor: pointer;
+}
